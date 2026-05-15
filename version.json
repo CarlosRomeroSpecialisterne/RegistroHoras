@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
-  "download_url": "https://github.com/CarlosRomeroSpecialisterne/RegistroHoras/releases/download/v1.0.2/RegistroHoras.exe",
-  "notes": "Prueba del sistema de actualización automática."
+  "version": "1.0.3",
+  "download_url": "https://github.com/CarlosRomeroSpecialisterne/RegistroHoras/releases/download/v1.0.3/RegistroHoras.exe",
+  "notes": "Mejorado el sistema de actualización con barra de progreso y espera segura antes de reemplazar el ejecutable."
 }
