@@ -1,5 +1,5 @@
 {
-  "version": "1.0.4",
-  "download_url": "https://github.com/CarlosRomeroSpecialisterne/RegistroHoras/releases/download/v1.0.4/RegistroHoras.exe",
-  "notes": "Añadido soporte multiidioma: español, catalán e inglés. El Excel se exporta en el idioma seleccionado."
+  "version": "1.0.5",
+  "download_url": "https://github.com/CarlosRomeroSpecialisterne/RegistroHoras/releases/download/v1.0.5/RegistroHoras.exe",
+  "notes": "Corregido el sistema de actualización para que descargue la nueva versión sin intentar sustituir el programa abierto. Esto evita errores con PyInstaller. También se ha corregido un texto en catalán."
 }
